@@ -1,0 +1,14 @@
+## Date:
+Friday, September 19th
+
+## Electrons in SSDs??:
+
+### Introduction:
+Today, we had a work period on our game project. We discussed the details surrounding the SSD storage device. 
+
+### Learning/Reflection:
+I learned that the SSD has something called floating gate transistors which basically trap electrons into a chip stored within the SSD, called the NAND flash memory. If there is a presence of electrons, it represents 1 and vice-versa. This helps model the on and off singals computer need to understand/compute information. 
+<br>
+This is how the SSD can store information without having electfical signals to charge the on/off signals. It uses another medium (electrons) to represent the on/off signals and then they are converted to electricla swingals when processed by the computer itself.
+### Conclusion:
+In conclusion, I learned about SSD and NAND flash memory's role in helping its functionality. 
